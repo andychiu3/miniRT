@@ -1,0 +1,15 @@
+{
+	"files.associations": {
+		"libft.h": "c",
+		"minirt.h": "c",
+		"vector": "c"
+	}
+}
+
+{
+    "editor.renderWhitespace": "boundary",
+    "editor.cursorBlinking": "solid",
+    "editor.smoothScrolling": false,
+    "window.titleBarStyle": "native",
+    "terminal.integrated.gpuAcceleration": "off"
+}
