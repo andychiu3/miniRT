@@ -2,6 +2,8 @@
 
 It is a project of ray tracing using MiniLibX graphical library. 
 
+<img width="797" height="590" alt="miniRT" src="https://github.com/user-attachments/assets/4c3229da-088e-4d7d-9e88-9d192b2076c4" />
+
 <br>
 
 ## How to Use
